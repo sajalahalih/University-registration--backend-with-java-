@@ -1,0 +1,6 @@
+studentID, name, contactDetails, faculty, courses, grades, CUM, GPA, major
+S1001, Alice Smith, alice@example.com, Science, [Biology, Chemistry], {Biology: 3.5, Chemistry: 3.8}, 3.65, {Spring2023: 3.65}, IT
+S1002, Bob Johnson, bob@example.com, Engineering, [Math, Physics], {Math: 3.2, Physics: 3.6}, 3.4, {Spring2023: 3.4}, Science
+S1003, Carol Lee, carol@example.com, Arts, [History, Literature], {History: 3.7, Literature: 3.9}, 3.8, {Spring2023: 3.8}, Science
+S1004, David Brown, david@example.com, Business, [Economics, Marketing], {Economics: 3.3, Marketing: 3.4}, 3.35, {Spring2023: 3.35}, Software
+S1005, Emma Wilson, emma@example.com, Medicine, [Anatomy, Physiology], {Anatomy: 3.8, Physiology: 4.0}, 3.9, {Spring2023: 3.9}, Teacher

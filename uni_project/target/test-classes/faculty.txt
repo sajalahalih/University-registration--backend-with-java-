@@ -1,0 +1,6 @@
+facultyID, name, contactDetails, facultyCourses
+F1001, Science, Science@example.com, [Biology, Chemistry]
+F1002, Engineering, Engineering@example.com, [Math, Physics]
+F1003, Arts, Arts@example.com, [History, Literature]
+F1004, Business, Business@example.com, [Economics, Marketing]
+F1005, Medicine, Medicine@example.com, [Anatomy, Physiology]

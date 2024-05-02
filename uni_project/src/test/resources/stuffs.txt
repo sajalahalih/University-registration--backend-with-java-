@@ -1,0 +1,6 @@
+staffID, name, contactDetails, role, staffCourses
+ST1001, John Doe, johndoe@example.com, staff, [Biology, Chemistry]
+ST1002, Jane Smith, janesmith@example.com, staff, [Math, Physics]
+ST1003, Emily Johnson, emilyjohnson@example.com, staff, [History, Literature]
+ST1004, Michael Brown, michaelbrown@example.com, staff, [Economics, Marketing]
+ST1005, Sarah Wilson, sarahwilson@example.com, staff, [Anatomy, Physiology]

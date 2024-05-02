@@ -1,0 +1,6 @@
+name, numberOfCredits, faculty, meetingTimes, prerequisites, grade, courseOfferSemester
+Biology, 4, Science, [Monday 10:00-12:00, Wednesday 10:00-12:00], [], 0.0, [Spring2023, Fall2023]
+Chemistry, 4, Science, [Tuesday 13:00-15:00, Wednesday 10:00-12:00], [], 0.0, [Spring2023]
+Math, 3, Engineering, [Monday 14:00-16:00, Friday 14:00-16:00], [], 0.0, [Fall2023]
+Physics, 3, Engineering, [Tuesday 10:00-12:00, Thursday 10:00-12:00], [Math], 0.0, [Spring2023]
+Economics, 3, Business, [Thursday 10:00-12:00, Friday 15:00-17:00], [], 0.0, [Fall2023]
